@@ -5,6 +5,6 @@ Yazılım portları otomatik taramakta, port bulunmazsa hata mesajı vermektedir
 
 Ayarlar penceresinden her röle isimlendirilmekte bu isimler düğmelere ve zamanlayıcıya yansımaktadır. 
 
-Zamanlayıcıda bir röle istenilen dakika ve saniye değeri girilerek belirtilen süre boyunca açık konumda olabilir. Geçen süre her milisaniyede güncellenmektedir. 
+Zamanlayıcıda bir röle istenilen dakika ve saniye değeri girilerek belirtilen süre boyunca açık konumda olur. Geçen süre her milisaniyede güncellenmektedir. 
 
 Röleler Arduino kartının D4, D5, D6, D7 ayaklarına bağlanmalıdır. Mikrodenetleyici yazılımı Atmel Studio'da AVR-GCC üzerinde yazılmıştır. 
